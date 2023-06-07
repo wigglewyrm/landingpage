@@ -1,3 +1,27 @@
 body {
     box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+}
+
+.header {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: space-around;
+    padding: 8px;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    
+}
+
+.header-links a {
+    font-size: 18px;
+    color: #E5E7EB;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
 }
