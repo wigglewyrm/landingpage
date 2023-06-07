@@ -1,1 +1,1 @@
-# landingpage
+Building a landing page for The Odin Project project.
